@@ -1,0 +1,8 @@
+.star {
+    font-size: 24px;
+    color: gray; /* デフォルトの色 */
+}
+
+.star.filled {
+    color: gold; /* ★の色 */
+}
