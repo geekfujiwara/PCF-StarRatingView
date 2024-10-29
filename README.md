@@ -16,15 +16,25 @@
 コードコンポーネントは以下のように追加します。
 ![image](https://github.com/user-attachments/assets/f96fb8d4-ccce-47a1-9df0-608e7b77f932)
 
-選択してください。
+対象のコンポーネントを追加します。
 ![image](https://github.com/user-attachments/assets/7f1b14d5-a042-4102-9a35-6fa9101d99d8)
 
 追加することができました。
 ![image](https://github.com/user-attachments/assets/a09650bb-8ff2-4f98-974d-3f00cd4ef5b8)
 
-このように追加することができます。
+色の設定は番号で行います。
+![image](https://github.com/user-attachments/assets/ece6b499-f8bc-4f4e-bf68-1e02b8a0b9f0)
 
-![image](https://github.com/user-attachments/assets/078caf07-7da6-4967-9d2b-564a3598aea1)
+> [!Note]
+> どの番号が何色を意味しているかは、アイコンから確認できます。
+> ![image](https://github.com/user-attachments/assets/cbcafc4f-4dff-463e-9b7b-9b9d4763cc76)
+
+今回はColor を `2` にしてみます。
+![image](https://github.com/user-attachments/assets/0956eae8-0ab9-498c-ab79-881eb432e566)
+
+このように追加することができます。モデル駆動型アプリを再生するとこのような色で表現されました。
+![image](https://github.com/user-attachments/assets/45d7fd10-ff25-4626-85cc-ed276aed4151)
+
 
 ### キャンバスアプリでの設定
 
