@@ -1,5 +1,5 @@
 # PCF-StarRatingView
-モデル駆動型アプリとキャンバスアプリで利用できる評価を星で表示するコントロールをPCFで作成しました。
+モデル駆動型アプリとキャンバスアプリで利用できる、評価を星(★★★★☆)で表示するPCFコントロールです。
 
 ### モデル駆動型アプリでの表示例
 ![image](https://github.com/user-attachments/assets/9f15354f-50da-4f4e-8051-acaf020bd738)
