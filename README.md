@@ -1,6 +1,12 @@
 # PCF-StarRatingView
 モデル駆動型アプリとキャンバスアプリで利用できる評価を星で表示するコントロールをPCFで作成しました。
 
+### モデル駆動型アプリでの表示例
+![image](https://github.com/user-attachments/assets/9f15354f-50da-4f4e-8051-acaf020bd738)
+
+### キャンバスアプリでの表示例
+![image](https://github.com/user-attachments/assets/7c5006a0-6a4f-469d-9fe6-c1742f3b1b21)
+
 > [!Note]
 > ただ、キャンバスアプリに関しては標準コントロールとして評価コントロールがあるので、こちらを使ったほうがシンプルかと思います。主にモデル駆動型アプリでの需要を想定しています。
 > ![image](https://github.com/user-attachments/assets/6179fd47-1be4-4088-a583-4b96cf4fe295)
